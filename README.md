@@ -3,12 +3,15 @@ Power Bi Dashboard
 **Project Objective**
 The objective of this project is to develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends. This dashboard enables stakeholders to effectively monitor and analyze credit card operations, facilitating data-driven decision-making.
 
+
 **Features**
 Real-Time Data Integration: Connects to live data sources to ensure up-to-date information.
 Key Performance Metrics: Tracks essential metrics such as total transactions, average transaction value, customer spending patterns, and credit card usage rates.
 Trend Analysis: Visualizes trends over time to identify significant patterns and anomalies.
 Interactive Visualizations: Provides dynamic and interactive charts, graphs, and tables for deeper data exploration.
 User-Friendly Interface: Intuitive design for easy navigation and accessibility for all stakeholders.
+
+
 **Technologies Used**
 SQL: For importing data from CSV files, storing, and querying transaction data.
 Power BI: For creating interactive and real-time visualizations.
